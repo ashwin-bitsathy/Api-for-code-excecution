@@ -3,10 +3,12 @@
 Api.py is used for code excecution and code validation and it checks for input and output test cases
 
 
-Output.txt is the testcase fo a code
+Output.txt is required output.
 
 
-out.txt is the output from the code.
+out.txt is the output from the code. obtained output
 
+
+in.txt provided input for the code
 
 
